@@ -8,6 +8,8 @@ labeledTrainData.tsv
 model/
 handwriting/
 preview/
+animals/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
