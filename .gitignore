@@ -6,6 +6,8 @@ roadapikey.txt
 chromedriver.exe
 labeledTrainData.tsv
 model/
+handwriting/
+preview/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
