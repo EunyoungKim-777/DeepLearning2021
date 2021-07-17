@@ -15,6 +15,7 @@ images
 무도.mp4
 user_img
 kpop_img
+models/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
